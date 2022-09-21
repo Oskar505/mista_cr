@@ -1,0 +1,116 @@
+
+/*** PLACE SELECTION (index) ***/
+
+@media only screen and (max-width: 1273px) {
+	.place_pic {
+		width: 95%;
+		height: auto;
+	}
+
+	main a {
+		width: 100%;
+	}
+
+	main img {
+		width: 100%;
+	}
+
+	.places {
+		width: 90%;
+	}
+}
+
+
+
+/*** GALLERY ***/
+
+@media only screen and (max-width: 1400px) {
+	footer a {
+		margin-left: 2%;
+	}
+}
+
+
+@media only screen and (max-width: 1335px) {
+	.gallery img {
+		width: 49.7%;
+		height: 300px;
+	}
+}
+
+@media only screen and (max-width: 970px) {
+	.gallery img {
+		height: 250px;
+	}
+}
+
+
+@media only screen and (max-width: 730px) {
+	.gallery img {
+		width: 100%;
+		height: auto;
+	}
+}
+
+
+/*** BUTTONS ***/
+
+@media only screen and (max-width: 1038px) {
+	.home_button {
+		top: -70px;
+		left: 90%;
+		width: 50px;
+	}
+
+	.wikipedia_button {
+		top: -70px;
+		left: 75.9%;
+		width: 50px;
+	}
+
+	.map_button {
+		top: -70px;
+		left: 61%;
+		width: 50px;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	.home_button {
+		top: -50px;
+		left: 90%;
+		width: 50px;
+	}
+
+	.wikipedia_button {
+    	top: 1px;
+    	left: 82.1%;
+    	width: 50px;
+}
+
+	.map_button {
+		top: 51px;
+		left: 74.9%;
+		width: 50px;
+	}
+}
+
+@media only screen and (max-width: 520px) {
+	.home_button {
+		top: -50px;
+		left: 88%;
+		width: 50px;
+	}
+
+	.wikipedia_button {
+    	top: 1px;
+    	left: 77%;
+    	width: 50px;
+}
+
+	.map_button {
+		top: 51px;
+		left: 66%;
+		width: 50px;
+	}
+}
